@@ -3,6 +3,8 @@
 ## 概要
 C言語で作成したWindows向けHit ＆ Blowゲーム。
 
+![HitBlow](https://github.com/handism/HitBlow/blob/master/HitBlow.png "サンプル")
+
 ## 機能
 - exeをダブルクリックで起動（要Windows）
 - Hit & Blowゲームが可能
